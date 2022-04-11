@@ -1,24 +1,12 @@
-# Groupomania - Réseau Social d'entreprise - Projet_#_7 - OpenClass Rooms
+# Groupomania - Réseau Social d'entreprise 
 
-Pour installer le projet sur votre machine :
+Création d'une application web, back-end et front-end.
 
-    git clone https://github.com/HoudaifaMofril/HoudaifaMofril_7_26062021.git
+Groupamania et un réseau social d'entreprise ou les collaborateurs peuvent:
+- [x] Créer un compte et s'authentifier
+- Partager des Posts: publication
+- Réagir aux Posts: commentaires
 
-Pour executer le Backend chez vous, il vous faudra :
+Front-End: Vanilla JavaScript
+Back-end: Node, MySQL 
 
-    Installer Node.js
-
-    Éxecuter "npm install" dans un invité de commande à la racine du dossier "backend"
-
-    Renommer le fichier .env.test en .env et modifer le fichier avec vos informations:
-
-    DB_USER= Votre nom d'utilisateur
-    DB_PASSWORD= Votre mot de passe
-    DB_TABLE= Le nom de votre base de données
-    SECRET_KEY=Votre TOKEN d'auhtenfication(clé secrète) 
-    
-    
-    Démarrer le serveur avec la commande "node server"
-
-    Ouvrez index.html pour profiter du site !
-    
