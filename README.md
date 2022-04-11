@@ -7,8 +7,8 @@ Groupamania et un réseau social d'entreprise ou les collaborateurs peuvent:
 - [x] Partager des Posts: publication
 - [x] Réagir aux Posts: commentaires
 
-Front-End: Vanilla JavaScript
-Back-end: Node, MySQL 
+- Front-End: Vanilla JavaScript
+- Back-end: Node, MySQL 
 
 ### 1. Pré-requis
 
